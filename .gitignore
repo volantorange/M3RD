@@ -1,0 +1,23 @@
+# Python environments and generated caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor settings and secrets
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+
+# Large datasets and model checkpoints (kept locally)
+CFND_dataset/images/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Local working notes
+doc_review_extract.txt

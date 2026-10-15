@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1
+plain,0.75,0.0,0.0,0.0
+eann,0.25,0.25,1.0,0.4
